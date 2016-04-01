@@ -7,3 +7,14 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+I have not really learned new skills so far, but i have had the chance to work
+on previously learned skills.
+
+Until now, i feel comfortable with what i've been learning, so i might say that most
+of challenges have been easy.
+
+At first i didn't get to make the Udacity extension to work. But i solved it.
+
+Until now, yes i have used some of the solving strategies. Such as searching on the web
+to solve a problem.
